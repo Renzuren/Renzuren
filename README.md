@@ -1,6 +1,6 @@
 <!-- Header with animated typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=700&lines=%3E+Hello+World;I'm+Ralph+Lawrence+Amparo;Full-Stack+Developer;ML+%7C+Cybersecurity+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=700&lines=%3E+Hello+World;I'm+Ralph+Lawrence+Amparo;Full-Stack+Developer;Machine Learning" />
 </p>
 
 <p align="center">
