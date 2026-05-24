@@ -49,24 +49,24 @@ Learning: LLMs, Data Analytics, Cloud-Native Systems
 
 ## 📌 Featured Projects
 
-### Microplastic Prediction
-Hybrid ML/DL model for microplastic accumulation in Laguna de Bay
+### Microplastic Density Prediction
+Hybrid ML/DL model for microplastic density prediction in Laguna de Bay
 
-**Tech:** Python • TensorFlow • Remote Sensing
+**Tech:** Python • TensorFlow • Remote Sensing • Streamlit 
 
 ---
 
 ### Stockify
 Smart inventory system with real-time updates and low-stock alerts
 
-**Tech:** React • Node.js • MongoDB
+**Tech:** React • Node.js • Firebase • Firebase
 
 ---
 
 ### CLSD Website
 Research platform for lakes data, events, and water quality monitoring
 
-**Tech:** React • Node.js • PostgreSQL • AWS
+**Tech:** React • Node.js • XAMPP • PHP • Composer
 
 ---
 
