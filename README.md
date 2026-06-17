@@ -17,7 +17,6 @@ Ralph Lawrence Amparo
 Full-Stack Developer | Machine Learning Engineer
 
 Location: Los Baños, Laguna, Philippines
-Currently: Building intelligent systems @ CLSD
 Learning: LLMs, Data Analytics, Cloud-Native Systems
 
 "Do the right thing, even when no one is watching."
