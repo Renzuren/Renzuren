@@ -14,7 +14,7 @@
 
 ```bash
 Ralph Lawrence Amparo
-Full-Stack Developer | Machine Learning Engineer
+Data Analytics | Full-Stack Developer | Machine Learning Engineer
 
 Location: Los Baños, Laguna, Philippines
 Learning: LLMs, Data Analytics, Cloud-Native Systems
